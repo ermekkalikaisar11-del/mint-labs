@@ -14,8 +14,13 @@
 ---
 
 ## 📸 Интерфейс программы
-<img width="1253" height="931" alt="изображение" src="https://github.com/user-attachments/assets/e9ed8a99-acab-43f2-9091-e566d617d2eb" />
-<img width="1251" height="926" alt="изображение" src="https://github.com/user-attachments/assets/8015d8ea-c7cd-4da7-8607-98c9f5f61c57" />
+<img width="1248" height="932" alt="изображение" src="https://github.com/user-attachments/assets/ce5a02ca-8dc2-4453-a537-e2ac90a020b3" />
+<img width="1244" height="920" alt="изображение" src="https://github.com/user-attachments/assets/c1b7a1c7-8e9a-4338-9420-9fce8ac8cf4e" />
+<img width="1247" height="925" alt="изображение" src="https://github.com/user-attachments/assets/273972b0-14fd-46ad-91a6-001bace492dd" />
+<img width="1912" height="941" alt="изображение" src="https://github.com/user-attachments/assets/b99d31a7-0010-4d71-b967-3a926fcd30f2" />
+
+
+
 
 
 
